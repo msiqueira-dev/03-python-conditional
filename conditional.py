@@ -13,7 +13,7 @@ def find_average_grade(grade1, grade2, grade3):
             Isso é um comentário padrão de funções e será ignorado pelo Python
             Essa função serve para calcular a média a partir de 3 notas fornecidas por parâmetro
         EN: 
-            This is a comment and will be ignored by Python.
+            This is a function comment and will be ignored by Python.
             This function serves the porpuse of calculating the average from from 3 given grades
     """
     average = (grade1 + grade2 + grade3) / 3
@@ -28,7 +28,7 @@ def verify_approved(grade1, grade2, grade3):
             se a media é maior ou igual a 5, caso seja, retorna a string (text) Approved (Aprovado), 
             caso não retorna a string (texto) Failed (reprovado).
         EN: 
-            This is a comment and will be ignored by Python.
+            This is a function comment and will be ignored by Python.
             This function receives 3 grades, and them calls the function find_average_grade that finds the average of the 3 give grades,
             and them it will receive the returned result in the variable average, and after it will check if the average value 
             is equal or higher than 5, if it is, it will return the string (text) Approved, 
