@@ -1,2 +1,7 @@
-# 03-python-conditional
- A repository to teach how to make conditional statements in python
+# Python: Conditional
+
+[PT]: Esse é um exemplo de um programa em Python que ensina condicionais
+
+[EN]: This is an example of a Python program that teachs conditionals
+
+Link: 
