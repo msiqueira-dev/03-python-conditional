@@ -4,4 +4,4 @@
 
 [EN]: This is an example of a Python program that teachs conditionals
 
-Link: 
+Link: https://www.youtube.com/watch?v=QukNvvnDNfY
